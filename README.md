@@ -1,8 +1,8 @@
 # Markdown to HTML compiler
 
-![](https://github.com/brycekage/markdown-compiler/workflows/doctests/badge.svg)&nbsp;
-![](https://github.com/brycekage/markdown-compiler/workflows/flake8/badge.svg)&nbsp;
-![](https://github.com/brycekage/markdown-compiler/workflows/command_line/badge.svg)&nbsp;
+![](https://github.com/brycekage/Markdown-Compiler/workflows/doctests/badge.svg)&nbsp;
+![](https://github.com/brycekage/Markdown-Compiler/workflows/flake8/badge.svg)&nbsp;
+![](https://github.com/brycekage/Markdown-Compiler/workflows/command_line/badge.svg)&nbsp;
 
 A simple project for converting markdown files to HTML.
 
